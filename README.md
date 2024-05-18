@@ -1,1 +1,1 @@
-# disenoalgoritmos
+# disenoalgoritmosint main ()
